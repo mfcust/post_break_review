@@ -30,3 +30,15 @@
 
 
 #5d) Delete the second item in your list by using the del function. Print your new list:
+
+
+
+
+
+#6) Import the turtle library, create a turtle object, and use your turtle to draw two separate squares that are both different colors. The squares cannot touch.
+#HINT: Don't forget to import the sleep function from the time library if you want to see your turlte  doing what you programmed it to do!!
+
+
+
+
+
